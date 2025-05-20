@@ -1,4 +1,4 @@
 kind: wasmer.io/App.v0
 name: BlogSamsuga
 owner: herycp07
-package: .
+package: sha256:5529b228951c50694920b826b60dcf45a4776b3d743c577a162292bb85fe92b3
