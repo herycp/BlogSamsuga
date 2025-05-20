@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: BlogSamsuga
+owner: herycp07
+package: .
